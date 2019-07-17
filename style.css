@@ -1,0 +1,48 @@
+body{
+    font-family: Montserrat;
+    text-align: center;
+}
+.judul{
+    text-align:center;
+    /* font-family: Montserrat; */
+    color: #46494e;
+    font-size:50px;
+    margin-top: 50px;
+}
+.table{
+    margin-left:auto;
+    margin-right:auto;
+    border-radius: 7px;
+    /* border: solid 1px black; */
+    background-color: #46494e;
+    padding : 10px;
+}
+.form-input{
+    margin-bottom: 15px;
+    height: 35px;
+    background-color: #f0f8ff;
+    border:none;
+    border-radius: 5px;
+    font-size:18px;
+    padding: 1px 8px;
+}
+input[type="button"], input[type="reset"]{
+    border:none;
+    width:100%;
+    height:40px;
+    font-size:18px;
+    border-radius:4px;
+    font-size: 18px;
+}
+.btn-orange{
+    background-color: #ffa244;
+    color: white;
+}
+.btn-blue{
+    background-color: #57a0be;
+    color:white;
+}
+.btn-red{
+    background-color: #d1474e;
+    color:white;
+}
